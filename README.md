@@ -1,2 +1,2 @@
-# Python_v1.0.0
+# my-first-repository
 My python repository
